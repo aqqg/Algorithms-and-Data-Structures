@@ -7,3 +7,5 @@
 中文名字： 邓君修
 
 专业：物流管理
+
+coding language: PYTHON
