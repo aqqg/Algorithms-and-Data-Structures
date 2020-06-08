@@ -61,13 +61,13 @@ root.left	 = Node(2)
 root.right	 = Node(3) 
 root.left.left = Node(4) 
 root.left.right = Node(5) 
-print("Preorder traversal of binary tree is")
+print("Preorder traversal of binary tree is (先序遍历)")
 printPreorder(root) 
 
-print("\nInorder traversal of binary tree is")
+print("\nInorder traversal of binary tree is (中序遍历)")
 printInorder(root) 
 
-print("\nPostorder traversal of binary tree is")
+print("\nPostorder traversal of binary tree is (后序遍历)")
 printPostorder(root) 
 
 # Output
