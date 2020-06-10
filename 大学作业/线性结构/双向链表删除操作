@@ -94,7 +94,7 @@ print("\n Modified Linked List",)
 dll.printList(dll.head) 
 
 # 输出
-# Original Linked List
+# Original Doubly-Linked List
 # 10 8 4 2 
-# Modified Linked List
+# Modified Doubly-Linked List
 # 8 
