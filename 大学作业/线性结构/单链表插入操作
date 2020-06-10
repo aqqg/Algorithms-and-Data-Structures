@@ -110,3 +110,7 @@ if __name__=='__main__':
 
 	print('Created linked list is:',) 
 	llist.printList() 
+	
+# 输出
+# Created Linked list is:  1  7  8  6  4
+
