@@ -1,4 +1,4 @@
-# A simple Python program for traversal of a linked list 
+# A simple Python program for a linked list 
 
 # Node class 
 class Node: 
