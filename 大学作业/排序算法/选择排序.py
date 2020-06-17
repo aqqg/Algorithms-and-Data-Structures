@@ -1,5 +1,4 @@
-# Python program for implementation of Selection 
-# Sort 
+# 选择排序实现
 import sys 
 A = [64, 38, 10, 24, 2] 
   
