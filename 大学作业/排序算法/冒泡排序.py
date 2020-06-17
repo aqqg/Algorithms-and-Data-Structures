@@ -1,4 +1,4 @@
-# 冒泡排序实现
+# 冒泡排序算法实现
 
 def bubbleSort(arr): 
 	n = len(arr) 
