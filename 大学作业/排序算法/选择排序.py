@@ -20,3 +20,7 @@ for i in range(len(A)):
 print ("Sorted array") 
 for i in range(len(A)): 
     print("%d" %A[i],end=' ')
+
+# 输出
+# Sorted array
+# 2 10 24 38 64 
